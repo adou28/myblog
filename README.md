@@ -1,4 +1,0 @@
-myblog
-======
-
-jimmy's blog
